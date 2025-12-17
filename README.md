@@ -8,23 +8,6 @@ A 2D platformer made using the awesome [Flame engine](https://flame-engine.org/)
 
 - [Itch.io](https://ufrshubham.itch.io/square-boy)
 
-## Build/Run Steps
-
-```bash
-# Clone this project
-$ git clone https://github.com/ufrshubham/flame_simple_platformer
-
-# Access
-$ cd flame_simple_platformer
-
-# Install dependencies
-$ flutter pub get
-
-# Run the project (Make sure that a virtual or physical device is connected first)
-$ flutter run
-
-# The will start the game on any connected device.
-```
 
 ## Browse by timeline
 
